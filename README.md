@@ -2,7 +2,6 @@
 
 - 🔭 Estou atualmente trabalhando como analista de pré vendas - PL
 - 🌱 Cursando bacharelado de Tecnologia da Informação na Universidade Positivo
-- 🤪 Rede social: [Instagram](https://www.instagram.com/boanoitejota/)
 
 <div align="flex">
   <a href="https://github.com/jonvianna">
