@@ -4,7 +4,7 @@
 - 🌱 Cursando bacharelado de Tecnologia da Informação na Universidade Positivo
 - 🤪 Rede social: [Instagram](https://www.instagram.com/boanoitejota/)
 
-<div align="center">
+<div align="flex">
   <a href="https://github.com/jonvianna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonvianna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonvianna&layout=compact&langs_count=7&theme=dark"/>
