@@ -1,7 +1,7 @@
 ## Oii! Prazer, Jon Vianna 👻
 
 - 🔭 Estou atualmente trabalhando como analista de pré vendas - PL
-- 🌱 Cursando bacharelado de Tecnologia da Informação na Universidade Positivo
+- 🌱 Cursando bacharelado de Sistemas de Informação na Universidade Positivo
 
 <div align="flex">
   <a href="https://github.com/jonvianna">
