@@ -1,6 +1,6 @@
 ## Oii! Prazer, Jon Vianna 👻
 
-- 🔭 Estou atualmente trabalhando como analista de pré vendas - PL
+- 🔭 Estou atualmente trabalhando como Account Executive
 - 🌱 Cursando bacharelado de Sistemas de Informação na Universidade Positivo
 
 <div align="flex">
